@@ -27,7 +27,7 @@ You can also modify the program and simulation to test different scenarios and c
 Here's a short GIF showing the output of the warehouse simulation:
 
 
-![](https://github.com/SamiraHajizadeh/AutomatedWarehouse/blob/main/example.gif)
+![](https://github.com/SamiraHajizadeh/AutomatedWarehouse/blob/main/output.gif)
 
 
 ## Credits
