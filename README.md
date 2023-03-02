@@ -9,15 +9,15 @@ Automated warehouses are becoming increasingly popular in industries such as log
 The simulation is done in FactoryIO, where the program is tested and debugged. The simulation includes various warehouse scenarios, such as item storage, retrieval, and transport.
 
 ## Dependencies
-TIA Portal
-FactoryIO
-Knowedge in Ladder Programming
+- TIA Portal
+- FactoryIO
+- Knowedge in Ladder Programming
 
 ## Installation
-Clone the repository to your local machine.
-Open TIA Portal and import the project files from the repository.
-Open FactoryIO and load the warehouse simulation.
-Run the program in TIA Portal and start the simulation in FactoryIO.
+1. Clone the repository to your local machine.
+2. Open TIA Portal and import the project files from the repository.
+3. Open FactoryIO and load the warehouse simulation.
+4. Run the program in TIA Portal and start the simulation in FactoryIO.
 
 ## Usage
 Once the program and simulation are running, you can use the GUI to monitor the warehouse's status and performance. The GUI shows real-time data about the conveyor belts, sensors, and robots, as well as any errors or issues that may arise.
